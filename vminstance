@@ -1,0 +1,4 @@
+resource "local_file" "charan"{
+filename = "charan.txt"
+content = "Welcome"
+}
